@@ -1,1 +1,1 @@
-# youtube_comments_api
+Simple Google Script tool illustrating how to load comments from YouTube videos (using YouTube Data API) into Google Spreadsheet for the following processing. 
